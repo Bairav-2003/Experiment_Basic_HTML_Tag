@@ -14,7 +14,7 @@ Add a paragragh tag to the program
 Execute the program
 
 # CODE
-~<!DOCTYPE html>
+~~~<!DOCTYPE html>
 <html>
 <body>
 <h1>Name: LOHA.BAIRAV SKANDAN</h1>
