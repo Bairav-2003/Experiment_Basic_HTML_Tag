@@ -14,6 +14,21 @@ Add a paragragh tag to the program
 Execute the program
 
 # CODE
-*Paste your code here*
+~<!DOCTYPE html>
+<html>
+<body>
+<h1>Name: LOHA.BAIRAV SKANDAN</h1>
+<h2>Ref. No:21000106 </h2>
+<h3>Dept.:Artificial Intelligence & DATA SCIENCE </h3>
+</body>
+</html>
+~~~
+
 # OUPUT
-*OUTPUT*
+<html>
+<body>
+<h1>Name: LOHA.BAIRAV SKANDAN</h1>
+<h2>Ref. No:21000106 </h2>
+<h3>Dept.:Artificial Intelligence & DATA SCIENCE </h3>
+</body>
+</html>
